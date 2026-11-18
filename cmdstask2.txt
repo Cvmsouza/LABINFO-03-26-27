@@ -1,0 +1,19 @@
+    1  ls
+    2  mkdir identificacao.txt
+    3  dir 
+    4  commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    5  cd identificacao.txt
+    6  cd .
+    7  cd 
+    8  ls
+    9  Tarefa 1: adiciona o ficheiro de identificação
+   10  cd -
+   11  ls
+   12  cd ..
+   13  ls
+   14  mkdir A139337
+   15  ls
+   16  cd A139337
+   17  ls
+   18  cd -
+   19  history > cmdstask2.txt
